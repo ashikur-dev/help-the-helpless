@@ -1,6 +1,7 @@
 body{
     margin:0;
     padding:0;
+    font-family: 'Crimson Text', serif;
 }
 #lets-help{
     background-image: url("images/donation0.jpg");

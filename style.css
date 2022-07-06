@@ -1,3 +1,7 @@
+body{
+    margin:0;
+    padding:0;
+}
 #lets-help{
     background-image: url("images/donation0.jpg");
     background-repeat: no-repeat;
@@ -189,4 +193,19 @@ hr{
     border-radius: 0 7px 7px 0;
     border:none;
     background-color: rgb(255, 69, 69);
+}
+#footer{
+    margin-top: 100px;
+    background-color: #0B0D17;
+    padding: 50px;
+}
+#footer h2{
+    font-size: 42px;
+    text-align: center;
+    color:rgb(255, 69, 69)
+}
+#footer p{
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
 }

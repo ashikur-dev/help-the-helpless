@@ -123,3 +123,37 @@ hr{
 .item-three{
     background-color: #FFF4D6;
 }
+#recent-efforts{
+    margin-top: 100px;
+}
+#recent-efforts h2{
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.recent-efforts-list-item{
+    height: 300px;
+    display: flex;
+    
+    margin-bottom: 20px;
+    box-shadow: 5px 2px 12px rgba(172, 68, 68, 0.336);
+}
+.recent-efforts-list-item img{
+    height:auto;
+    width: 350px;
+}
+.recent-efforts-list-item-details{
+    padding: 20px;
+}
+.recent-efforts-list-item-details h3{
+    font-size: 42px;
+    margin-top: 20px;
+}
+.recent-efforts-list-item-details p{
+    font-size: 24px;
+}
+.recent-efforts-list-item-details a{
+    font-size: 24px;
+    color: #000;
+    padding: 15px 0;
+}
